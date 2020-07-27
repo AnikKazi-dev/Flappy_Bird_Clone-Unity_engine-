@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pipe
+  - ground
+  - obs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 772932789
+    locked: 0
+  - name: MidGround
+    uniqueID: 3162722119
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2045497301
+    locked: 0
+  - name: Canvas
+    uniqueID: 1943154005
+    locked: 0
+  - name: Effect
+    uniqueID: 97695989
+    locked: 0
